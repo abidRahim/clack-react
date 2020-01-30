@@ -1,6 +1,6 @@
 {
   "name": "@reasonink/clack-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React support for @reasonink/clack",
   "main": "dist/index.js",
   "repository": "https://github.com/reasonink/clack-react",
