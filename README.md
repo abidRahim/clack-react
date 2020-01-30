@@ -47,6 +47,6 @@ Specifies a keyboard shortcut. The following props are supported:
     false). A global shortcut is active even if the child of
     <code>&lt;Keyboard&gt;</code> is not focused.</dd>
     <dt>preventDefault</dt>
-    <dd>A boolean indicating whether `e.preventDefault()` is invoked
-    automatically (default: true).</dd>
+    <dd>A boolean indicating whether <code>e.preventDefault()</code> is
+    invoked automatically (default: true).</dd>
 </dl>
