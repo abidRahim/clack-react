@@ -3,6 +3,14 @@
 This package provides two React components that enable keyboard shortcuts in
 React.
 
+## Installation
+
+Install with `npm install @reasonink/clack-react` or, if using yarn
+`yarn add @reasonink/clack-react`.
+
+Older versions of npm require the `--save` flag in order to add the
+package to `dependencies` in your `package.json`.
+
 ## Usage
 
 In the following example we create a component `MyComponent` that wraps
@@ -50,3 +58,8 @@ Specifies a keyboard shortcut. The following props are supported:
     <dd>A boolean indicating whether <code>e.preventDefault()</code> is
     invoked automatically (default: true).</dd>
 </dl>
+
+## License
+
+This library is made available under the MIT license. See the LICENSE file for
+details.
