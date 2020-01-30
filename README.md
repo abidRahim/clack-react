@@ -44,7 +44,7 @@ Specifies a keyboard shortcut. The following props are supported:
     <dd>A function that is invoked when the key combo is pressed by the user.</dd>
     <dt>global</dt>
     <dd>A boolean specifying whether or not the key combo is global (default:
-    false). A global shortcut is active even if the child of `<Keyboard>` is
+    false). A global shortcut is active even if the child of `&lt;Keyboard&gt;` is
     not focused.</dd>
     <dt>preventDefault</dt>
     <dd>A boolean indicating whether `e.preventDefault()` is invoked
